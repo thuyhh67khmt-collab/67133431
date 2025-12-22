@@ -2,7 +2,7 @@ a=int(input(" Nhap so a:"))
 b=int(input(" Nhap so b:"))
 c=int(input(" Nhap so c:"))
 max=a
-min=
+min=a
 if b>max:
     max=b
 if c>max:
